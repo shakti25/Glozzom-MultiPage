@@ -1,1 +1,1 @@
-## This the version 1 of the boilerplate template structure for websites
+## This the version 1 of Website Sample for a Portfolio
